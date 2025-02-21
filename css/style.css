@@ -35,6 +35,21 @@ header{
 /* fine header */
 
 
+.container-first-full{
+    width: 600px;
+    margin: 0 auto;
+    /* display: flex;  */
+}
+
+.c-full{
+    width: 100%;
+}
+
+.first-full-content{
+    height: 200px;
+    border: 1px dotted black;
+}
+
 
 /* utilities */
 
@@ -48,4 +63,16 @@ header{
 
 .bg-goldenrog{
     background-color: goldenrod;
+}
+
+.bg-lightpurple{
+    background-color: rgb(255, 21, 193);
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.pd-20{
+    padding: 20px;
 }
