@@ -28,7 +28,6 @@ header{
 }
 
 .content{
-    padding: 5px;
     border: 1px dotted black;
 }
 
@@ -92,10 +91,22 @@ header{
     background-color: rgb(150, 150, 150);
 }
 
+.bg-green{
+    background-color: green;
+}
+
 .pd-20{
     padding: 20px;
 }
 
+.pd-5{
+    padding: 5px;
+}
+
 .hg-250{
     height: 250px;
+}
+
+.hg-400{
+    height: 400px;
 }
