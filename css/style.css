@@ -27,7 +27,7 @@ header{
     width: 30%;
 }
 
-.content-head{
+.content{
     padding: 5px;
     border: 1px dotted black;
 }
@@ -50,6 +50,13 @@ header{
     border: 1px dotted black;
 }
 
+.c-right-main{
+    width: 40%;
+}
+
+.c-left-main{
+    width: 60%;
+}
 
 /* utilities */
 
@@ -73,6 +80,22 @@ header{
     background-color: blue;
 }
 
+.bg-lightblue{
+    background-color: rgb(74, 91, 242);
+}
+
+.bg-pink{
+    background-color: pink;
+}
+
+.bg-grey{
+    background-color: rgb(150, 150, 150);
+}
+
 .pd-20{
     padding: 20px;
+}
+
+.hg-250{
+    height: 250px;
 }
