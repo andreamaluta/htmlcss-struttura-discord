@@ -57,6 +57,20 @@ header{
     width: 60%;
 }
 
+/* fine main */
+
+.c-foot-left{
+    width: 40%;
+}
+
+.c-foot-right{
+    width: 15%;
+}
+
+.content-foot{
+    border: 1px dotted white;
+}
+
 /* utilities */
 
 .align-center{
@@ -95,6 +109,10 @@ header{
     background-color: green;
 }
 
+.bg-black{
+    background-color: rgb(22, 22, 22);
+}
+
 .pd-20{
     padding: 20px;
 }
@@ -103,10 +121,30 @@ header{
     padding: 5px;
 }
 
+.pdt-5{
+    padding-top: 5px;
+}
+
+.pdb-20{
+    padding-bottom: 15px;
+}
+
+.pdl-20{
+    padding-left: 20px;
+}
+
+.pdr-20{
+    padding-right: 20px;
+}
+
 .hg-250{
     height: 250px;
 }
 
 .hg-400{
     height: 400px;
+}
+
+.mt-5{
+    margin-top: 5px;
 }
