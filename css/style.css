@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    padding: 15px 0px;
+    background-color: rgb(97, 203, 203);
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.c-left-head{
+    width: 30%;
+}
+
+.c-mid-head{
+    width: 40%;
+}
+
+.c-right-head{
+    width: 30%;
+}
+
+.content-head{
+    padding: 5px;
+    border: 1px dotted black;
+}
+
+/* fine header */
+
+
+
+/* utilities */
+
+.align-center{
+    text-align: center;
+}
+
+.align-right{
+    text-align: right;
+}
+
+.bg-goldenrog{
+    background-color: goldenrod;
+}
