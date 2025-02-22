@@ -71,7 +71,22 @@ header{
     border: 1px dotted white;
 }
 
+.third-full-content{
+    border: 1px solid black;
+}
+
+.last-content{
+    border: 1px dotted black;
+}
+
+
 /* utilities */
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 .align-center{
     text-align: center;
@@ -113,6 +128,10 @@ header{
     background-color: rgb(22, 22, 22);
 }
 
+.bg-acqua{
+    background-color: aqua;
+}
+
 .pd-20{
     padding: 20px;
 }
@@ -137,6 +156,14 @@ header{
     padding-right: 20px;
 }
 
+.pd-last-footer{
+    padding: 0 7px 0 7px;
+}
+
+.pd-last-container{
+    padding: 20px 20px 0 20px;
+}
+
 .hg-250{
     height: 250px;
 }
@@ -145,6 +172,8 @@ header{
     height: 400px;
 }
 
-.mt-5{
-    margin-top: 5px;
+.hg-50{
+    height: 50px;
 }
+
+
